@@ -1,2 +1,5 @@
 server:
-  port: 8088
+  port: 8061
+spring:
+  profiles:
+    active: native
